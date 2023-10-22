@@ -3,8 +3,8 @@ Frontend Career Path - Digital Business Card
 
 # Tommy De Leon - Digital Business Card
 
-![Tommy De Leon - Profile Picture](![image](https://github.com/TommyDeLeon/business-card/assets/144635056/a069d3b1-2fc3-4113-9de6-b5dfe1621f32)
-)
+![image](https://github.com/TommyDeLeon/business-card/assets/144635056/a069d3b1-2fc3-4113-9de6-b5dfe1621f32)
+
 
 - **Name:** Tommy De Leon
 - **Occupation:** Electronics Engineering Student
